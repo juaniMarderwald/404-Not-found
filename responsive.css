@@ -1,0 +1,30 @@
+
+/*-----------------------------------Big Screens--------------------------------------------------------*/
+
+@media (min-width:300px) and (max-width :600px){
+    
+    #container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #text_aside{
+        margin-left: 1rem;
+    }
+    #text_aside h2{
+        font-size: 45px;
+        width: 100%;
+    }
+    #text_aside h2{
+        width: 100%;
+        padding: 10px 0px;
+    }
+
+
+    #img{
+        width: 400px;
+        height: 360px;
+    }
+
+}
+
